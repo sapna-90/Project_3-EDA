@@ -1,2 +1,2 @@
 # Project_3-EDA
-Exploratory Data Analysis
+Housing Data Analysis Project
